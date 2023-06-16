@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="SimpleTasksApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+  <configuration default="false" name="SimpleTasks Board" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
     <module name="tasks.main" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="io.perera.tasks.SimpleTasksApplication" />
     <extension name="net.ashald.envfile">
